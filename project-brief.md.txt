@@ -1,0 +1,43 @@
+GIS-BASED ANALYSIS OF HEALTH FACILITY DISTRIBUTION AND POPULATION COVERAGE BIRNIN KEBBI LGA, KEBBI STATE.
+How well does the spatial distribution of health facilities correspond with population distribution in Birnin Kebbi, Kebbi State?
+why it matters?
+1. to know where health facilities are located and where the population is concentrated
+2. to identify areas where the population may have limited access to health facilities
+3. to help understand whether health facilities are adequately distributed in relation to the population
+4. to provide useful spatial information that can support better planning and allocation of health facilities.
+DATA NEEDED;
+1. health facility locations 
+2. population estimates
+3. ward boundaries
+4. LGA boundaries
+5. road network
+6. settlement
+SOURCES OF DATA;
+1. Health facilities
+
+    GRID3 NGA – Health Facilities v3.0 (August 2026)
+    States included: Abia, Adamawa, Bauchi, Bayelsa, Borno, Delta, Enugu, FCT Abuja, Gombe, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Nasarawa, Niger, Ogun, Osun, Oyo, Sokoto, Yobe, Zamfara
+    GRID3 NGA – Health Facilities v2.0 (November 2024)
+    All states, v3.0 supercedes for included states
+	2.
+Settlements
+
+    Extents: GRID3 NGA – Settlement Extents v4.1 (August 2026)
+    Named points: GRID3 NGA – Settlement Names (September 2020)
+
+ 3.Gridded population estimates
+
+    NGA Population v3.0 (August 2025)
+
+4. Boundaries
+
+    Ward:
+        GRID3 NGA – Operational Wards v3.0 (July 2026)
+        States included: Abia, Adamawa, Bauchi, Bayelsa, Borno, Delta, Enugu, FCT Abuja, Gombe, Jigawa, Kaduna, Kano, Katsina, Kebbi, Kogi, Kwara, Nasarawa, Niger, Ogun, Osun, Oyo, Sokoto, Yobe, and Zamfara
+        GRID3 NGA – Operational Wards v1.0 (December 2020)
+        All states, v3.0 supercedes for included states
+    LGA: GRID3 NGA – Operational LGA Boundaries (December 2020)
+    State: GRID3 NGA – Operational State Boundaries (December 2020)
+WHAT I AM BUILDING
+I am basically building a map-based decision-support system that can answer where are the health facilities, where are the people,and which communities are far from adequate healthcare services.  
+ 
