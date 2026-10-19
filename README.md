@@ -5,4 +5,4 @@ See project-brief.md for the full brief.
 
 month 2;
 preparation of environment and early python
-week 5 ; hello.py
+week 5 ; hello.py, vs code and the terminal, runs hello.py
